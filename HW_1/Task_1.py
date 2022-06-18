@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+print("Hi,", name, "!")
+age = int(input("Enter your age: "))
+print("You are so young, you are just", age, "...")
+human = bool(input("Are you human? Write True or False: "))
+print("Are you sure that it's", human, "?")
+pi = float(input("We need to check, enter the number Pi: "))
+print("You entered:", pi)
